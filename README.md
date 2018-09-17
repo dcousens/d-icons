@@ -1,4 +1,5 @@
-# ttf-status-icons
+# d-icons
+
 Includes an optimized/accessible set of flat icons for my desktop.
 
 * Battery indicator
